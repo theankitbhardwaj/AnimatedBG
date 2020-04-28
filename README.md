@@ -1,2 +1,2 @@
 # AnimatedBG
-App to show how to apply animted gradient background in app.
+App to show how to apply animated gradient background in app.
